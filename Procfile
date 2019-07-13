@@ -1,1 +1,1 @@
-web: gunicorn homework12-plotly.app:app
+web: gunicorn app:app
